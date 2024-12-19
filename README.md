@@ -1,4 +1,4 @@
-# Personal_poject_links
+# Personal_project_links
 This repository contains links to my personal projects, showcasing some of the work I have completed. You can find the links to these projects listed below.
 
 ## Car-info-website
