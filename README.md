@@ -1,5 +1,5 @@
 # Personal_poject_links
-This repository has links to my personal projecst that i have worked on the links to these projects are linked bellow
+This repository contains links to my personal projects, showcasing some of the work I have completed. You can find the links to these projects listed below.
 
 ## Car-info-website
 https://github.com/NawanShaju/Car_info_website
